@@ -3,7 +3,7 @@
 🎓 **MEng Computer Science with Cybersecurity** student at the University of Southampton (Starting 2025)  
 🌍 Based in Dubai, UAE | UK Work Rights from Sept 2025  
 🛡️ Passionate about **Cybersecurity**, **Data Science**, and **IoT**  
-📧 [Email me](mailto:Akshat.barjatya@gmail.com) | 🌐 [LinkedIn](https://www.linkedin.com/in/akshat-barjatya)
+🌐 [LinkedIn](https://www.linkedin.com/in/akshat-barjatya)
 
 ---
 
