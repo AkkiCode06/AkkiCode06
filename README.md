@@ -18,7 +18,11 @@ so if you're working on something at the edge of fintech, ai, or just a genuinel
 
 ### 💻 Tech Stack
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Internet Banking](https://img.shields.io/badge/Internet%20Banking-333?style=for-the-badge&logo=internetbanking&logoColor=white) ![Process Engineering](https://img.shields.io/badge/Process%20Engineering-333?style=for-the-badge&logo=processengineering&logoColor=white) ![Cyber Security Management](https://img.shields.io/badge/Cyber%20Security%20Management-333?style=for-the-badge&logo=cybersecuritymanagement&logoColor=white) ![Data Science Tools](https://img.shields.io/badge/Data%20Science%20Tools-333?style=for-the-badge&logo=datasciencetools&logoColor=white) ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-333?style=for-the-badge&logo=machinelearning&logoColor=white) ![AI](https://img.shields.io/badge/AI-333?style=for-the-badge&logo=ai&logoColor=white) ![Cryptography](https://img.shields.io/badge/Cryptography-333?style=for-the-badge&logo=cryptography&logoColor=white) ![SMTP](https://img.shields.io/badge/SMTP-333?style=for-the-badge&logo=smtp&logoColor=white) ![ZohoCRM](https://img.shields.io/badge/ZohoCRM-333?style=for-the-badge&logo=zohocrm&logoColor=white) ![SalesIQ](https://img.shields.io/badge/SalesIQ-333?style=for-the-badge&logo=salesiq&logoColor=white) ![NTP StratumOne](https://img.shields.io/badge/NTP%20StratumOne-333?style=for-the-badge&logo=ntpstratumone&logoColor=white) ![STRIDE project management methodology](https://img.shields.io/badge/STRIDE%20project%20management%20methodology-333?style=for-the-badge&logo=strideprojectmanagementmethodology&logoColor=white) ![Niagara platform](https://img.shields.io/badge/Niagara%20platform-333?style=for-the-badge&logo=niagaraplatform&logoColor=white) ![IoT](https://img.shields.io/badge/IoT-333?style=for-the-badge&logo=iot&logoColor=white) ![Design Futures](https://img.shields.io/badge/Design%20Futures-333?style=for-the-badge&logo=designfutures&logoColor=white)
+<div align="center">
+
+![Skills](https://skillicons.dev/icons?i=swift,python,js,ts,react,flask,fastapi,firebase,nodejs,tailwind,git,figma)
+
+</div>
 
 ---
 
@@ -26,9 +30,9 @@ so if you're working on something at the edge of fintech, ai, or just a genuinel
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akkicode06&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
+![GitHub Stats](https://github-readme-stats-rickstaa.vercel.app/api?username=akkicode06&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akkicode06&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117)
+![Top Languages](https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=akkicode06&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117)
 
 </div>
 
@@ -49,10 +53,6 @@ so if you're working on something at the edge of fintech, ai, or just a genuinel
 [![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://akshatbarjatya.me) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@akshatbarjatya.me) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akshat-barjatya) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akkicode06)
 
 </div>
-
----
-
----
 
 ---
 
